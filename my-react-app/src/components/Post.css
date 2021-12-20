@@ -1,0 +1,28 @@
+.div-wrapper {
+    background-color: lightgray;
+    border-bottom: 1px solid black;
+    width: 15rem;
+    height: 8.5rem;
+    margin-left: 1rem;
+    margin-bottom: -1.17rem;
+    position: relative;
+}
+
+h3 {
+    padding: 1rem;
+    margin-bottom: -1.5rem;
+}
+
+p {
+    padding: 1rem;
+    margin-top: -1.5rem;
+}
+
+#delete-btn {
+    background-color: lightcoral;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+    position: relative;
+    left: 11rem;
+}
